@@ -27,9 +27,9 @@ classes: wide
 
   
   
-| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Deporte | Inexistente | *[Repositorio](https://github.com/opencitydata/deporte-instalaciones)*  |  *[Generar issue](https://github.com/opencitydata/deporte-instalaciones/issues)*   | Vocabulario para la representación de datos de las instalaciones deportivas.  | |  |  |  |   |
+| Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
+| -------- | -------- | --------- | ---------- | --------------- |
+| Deporte | Inexistente | *[Repositorio](https://github.com/opencitydata/deporte-instalaciones)*  |  *[Generar issue](https://github.com/opencitydata/deporte-instalaciones/issues)*   | Vocabulario para la representación de datos de las instalaciones deportivas.  | 
  
  
   
